@@ -34,36 +34,35 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
 
-## Github URL
+## Github URL 🦊
 [${data.github}]((https:/github.cpm/${data.github})/)
 
-## Description
+## Description 🖊️ 
 ${data.description}
 
-## Table of Contents
+## Table of Contents 📖
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [license](#license)
+* [License](#license)
 * [Questions](#questions)
 
-## Installation
+## Installation 💀
 
 ${data.installation}
 
-## Usage
-
+## Usage 🚊
 ${data.usage}
 
-## Contributing
+## Contributing ✨
 ${data.contributing}
 
-## Tests
+## Tests 🧪
 ${data.tests}
 
-## license
+## License 🪪
 ${renderLicenseSection(data.license)}
 ${renderLicenseBadge(data.license)}
 ${renderLicenseLink(data.license)}
