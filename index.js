@@ -45,7 +45,7 @@ const questions = [
     {
         type:'input',
         name:'email',
-        message:'What tis your email address?'
+        message:'What is your email address?'
     },
     {
         type:'input',

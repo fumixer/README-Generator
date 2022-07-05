@@ -70,8 +70,7 @@ ${data.tests}
 ${data.lisence}
 
 ## Questions
-Please contact me with any questions via email at ${data.email} or Github [${data.github}](https://github.com/${data.github})
-
+Please contact me with any questions via email at ${data.email} or Github [${data.github}](https://github.com/${data.github})no
 
 `;
 }
