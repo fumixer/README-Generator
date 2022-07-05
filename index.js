@@ -34,7 +34,7 @@ const questions = [
     {
         type:'input',
         name:'tests',
-        message:'What test information does the use need to know?'
+        message:'What test information does the user need to know?'
     },
     {
         type:'list',

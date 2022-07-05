@@ -1,35 +1,34 @@
-# dd
+# read me generator
 
-## Github URL
-[dd]((https:/github.cpm/dd)/)
+## Github URL 🦊
+[fumixer]((https:/github.cpm/fumixer)/)
 
-## Description
-dd
+## Description 🖊️ 
+slkjsdfsldkjfsd
 
-## Table of Contents
+## Table of Contents 📖
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [license](#license)
+* [License](#license)
 * [Questions](#questions)
 
-## Installation
+## Installation 💀
 
-dd
+sdsklkjsdlkfsj
 
-## Usage
+## Usage 🚊
+sdlksldfkjsd
 
-dd
+## Contributing ✨
+sdsdfsdf
 
-## Contributing
-dd
+## Tests 🧪
+sdfsdfs
 
-## Tests
-dd
-
-## license
+## License 🪪
 Copyright © MIT. All rights reserved. 
       Licensed under the MIT license.
 ![GitHub license](https://img.shields.io/badge/license-MIT-orange.svg)
@@ -38,5 +37,5 @@ Copyright © MIT. All rights reserved.
 
 
 ## Questions
-Please contact me with any questions via email at dd or Github [dd](https://github.com/dd)no
+Please contact me with any questions via email at sdfasdlkj or Github [fumixer](https://github.com/fumixer)no
 
