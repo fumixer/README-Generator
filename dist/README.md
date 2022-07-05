@@ -1,10 +1,10 @@
-# fumixer
+# dd
 
 ## Github URL
-[fumixer]((https:/github.cpm/fumixer)/)
+[dd]((https:/github.cpm/dd)/)
 
 ## Description
-Gerenerate README
+dd
 
 ## Table of Contents
 
@@ -17,22 +17,24 @@ Gerenerate README
 
 ## Installation
 
-node.js, npm and inquire
+dd
 
 ## Usage
 
-answer questions
+dd
 
 ## Contributing
-lkjlskdflksjd
+dd
 
 ## Tests
-npm run test
+dd
 
 ## Lisence
-MIT
-![GitHub license](https://img.shields.io/badge/license-undefined-yellowgreen.svg)
+Copyright © MIT. All rights reserved. 
+      
+      Licensed under the MIT license.
+![GitHub license](https://img.shields.io/badge/license-MIT-orange.svg)
 
 ## Questions
-Please contact me with any questions via email at lkjsdlfksjr@gmail.com or Github [fumixer](https://github.com/fumixer)no
+Please contact me with any questions via email at dd or Github [dd](https://github.com/dd)no
 
