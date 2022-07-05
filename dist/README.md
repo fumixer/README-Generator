@@ -1,11 +1,10 @@
-# d
-  ![GitHub license](https://img.shields.io/badge/license-undefined-yellowgreen.svg)
+# fumixer
 
 ## Github URL
-[d]((https:/github.cpm/d)/)
+[fumixer]((https:/github.cpm/fumixer)/)
 
 ## Description
-d
+Gerenerate README
 
 ## Table of Contents
 
@@ -18,21 +17,22 @@ d
 
 ## Installation
 
-ddd
+node.js, npm and inquire
 
 ## Usage
 
-dd
+answer questions
 
 ## Contributing
-dd
+lkjlskdflksjd
 
 ## Tests
-dd
+npm run test
 
 ## Lisence
 MIT
+![GitHub license](https://img.shields.io/badge/license-undefined-yellowgreen.svg)
 
 ## Questions
-Please contact me with any questions via email at dd or Github [d](https://github.com/d)
+Please contact me with any questions via email at lkjsdlfksjr@gmail.com or Github [fumixer](https://github.com/fumixer)no
 
