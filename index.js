@@ -38,9 +38,9 @@ const questions = [
     },
     {
         type:'list',
-        name:'lisence',
-        message:'What lisence do you want to use?',
-        choices: ["MIT","Apache","BSD","GNU"]
+        name:'license',
+        message:'What license do you want to use?',
+        choices: ["MIT","Apache","BSD","GNU","None"]
     },
     {
         type:'input',

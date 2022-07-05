@@ -10,7 +10,7 @@ function renderLicenseBadge(license) {
 // 6-1.TODO: Create a function that returns the license link
 // 6-2.If there is no license, return an empty str  ing
 function renderLicenseLink(license) {
-  if (lisence !== "None"){
+  if (license !== "None"){
     return(
       `\n* [License](#license)\n`
     )
@@ -24,7 +24,6 @@ function renderLicenseSection(license) {
   if (license !=="None"){
     return(
       `Copyright © ${license}. All rights reserved. 
-      
       Licensed under the ${license} license.`
     )
   }
@@ -47,7 +46,7 @@ ${data.description}
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [Lisence](#lisence)
+* [license](#license)
 * [Questions](#questions)
 
 ## Installation
@@ -64,9 +63,10 @@ ${data.contributing}
 ## Tests
 ${data.tests}
 
-## Lisence
-${renderLicenseSection(data.lisence)}
-${renderLicenseBadge(data.lisence)}
+## license
+${renderLicenseSection(data.license)}
+${renderLicenseBadge(data.license)}
+${renderLicenseLink(data.license)}
 
 ## Questions
 Please contact me with any questions via email at ${data.email} or Github [${data.github}](https://github.com/${data.github})no
