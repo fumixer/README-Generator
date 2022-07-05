@@ -35,7 +35,6 @@ function renderLicenseSection(license) {
 // 4. TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-  ${renderLicenseBadge(data.liscense)}
 
 ## Github URL
 [${data.github}]((https:/github.cpm/${data.github})/)
@@ -68,6 +67,7 @@ ${data.tests}
 
 ## Lisence
 ${data.lisence}
+${renderLicenseBadge(data.liscense)}
 
 ## Questions
 Please contact me with any questions via email at ${data.email} or Github [${data.github}](https://github.com/${data.github})no

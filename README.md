@@ -1,10 +1,10 @@
 # README-Generator
 
-## Github URL
-[Github]:(https://github.com/fumixer/README-Generator)
+### Github URL
+![Github]:(https://github.com/fumixer/README-Generator)
 
-## Workthrough video
-[Workthrough video]:(https://drive.google.com/drive/folders/1MKkHc4dH4fViko3YFc3wseYYbs_kxTNM?usp=sharing)
+### Workthrough video
+![Workthrough video]:(https://drive.google.com/drive/folders/1MKkHc4dH4fViko3YFc3wseYYbs_kxTNM?usp=sharing)
 
 ## Description
 Using node.js, this application can generate README file automatically.
