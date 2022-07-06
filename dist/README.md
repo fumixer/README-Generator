@@ -1,4 +1,4 @@
-# README generator
+# READEME generator
 
   ![GitHub license](https://img.shields.io/badge/license-MIT-orange.svg)
 
@@ -38,5 +38,5 @@ Copyright © MIT. All rights reserved.
 
 
 ## Questions
-Please contact me with any questions via email at fumixer598@gmail.com or Github [fumixer](https://github.com/fumixer)
+Please contact me with any questions via email at fumixer5748@gmail.com or Github [fumixer](https://github.com/fumixer)
 
