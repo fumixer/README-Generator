@@ -32,5 +32,3 @@ User need to answer following questions by command and can generate READEME.
 * inquire
 
 ![licence badge](https://img.shields.io/badge/license-MIT-orange.png)
-
-![licence badge](https://img.shields.io/badge/license-GNU-blue.png)
