@@ -38,7 +38,6 @@ function generateMarkdown(data) {
 
 ## Github URL 🦊
 Github [${data.github}](https://github.com/${data.github})
-// ![${data.github}]:((https:/github.cpm/${data.github})/)
 
 ## Description 🖊️ 
 ${data.description}
