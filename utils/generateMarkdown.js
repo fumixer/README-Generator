@@ -37,7 +37,7 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
 
 ## Github URL 🦊
-[${data.github}]((https:/github.cpm/${data.github})/)
+![${data.github}]:((https:/github.cpm/${data.github})/)
 
 ## Description 🖊️ 
 ${data.description}
@@ -69,7 +69,7 @@ ${renderLicenseSection(data.license)}
 ${renderLicenseLink(data.license)}
 
 ## Questions
-Please contact me with any questions via email at ${data.email} or Github [${data.github}](https://github.com/${data.github})no
+Please contact me with any questions via email at ${data.email} or Github [${data.github}](https://github.com/${data.github})
 
 `;
 }
