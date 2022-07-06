@@ -19,7 +19,7 @@ const questions = [
     {
         type:'input',
         name:'installation',
-        message:'Provide installaion instruction to use your app'
+        message:'Provide installation instruction to use your app'
     },
     {
         type:'input',

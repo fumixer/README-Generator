@@ -34,6 +34,8 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ${renderLicenseBadge(data.license)}
+
 ## Github URL 🦊
 [${data.github}]((https:/github.cpm/${data.github})/)
 
@@ -64,7 +66,6 @@ ${data.tests}
 
 ## License 🪪
 ${renderLicenseSection(data.license)}
-${renderLicenseBadge(data.license)}
 ${renderLicenseLink(data.license)}
 
 ## Questions

@@ -1,10 +1,12 @@
-# read me generator
+# README generator
+
+  ![GitHub license](https://img.shields.io/badge/license-MIT-orange.svg)
 
 ## Github URL 🦊
 [fumixer]((https:/github.cpm/fumixer)/)
 
 ## Description 🖊️ 
-slkjsdfsldkjfsd
+This is the app that user can create READEME.md on Github by answering the questions.
 
 ## Table of Contents 📖
 
@@ -17,25 +19,24 @@ slkjsdfsldkjfsd
 
 ## Installation 💀
 
-sdsklkjsdlkfsj
+To install inquirer, run the following command:npm install inquirer
 
 ## Usage 🚊
-sdlksldfkjsd
+You need to answer several questions on the terminal.
 
 ## Contributing ✨
-sdsdfsdf
+fumixer
 
 ## Tests 🧪
-sdfsdfs
+To run the test, run the following commands:npm run test
 
 ## License 🪪
 Copyright © MIT. All rights reserved. 
       Licensed under the MIT license.
-![GitHub license](https://img.shields.io/badge/license-MIT-orange.svg)
 
 * [License](#license)
 
 
 ## Questions
-Please contact me with any questions via email at sdfasdlkj or Github [fumixer](https://github.com/fumixer)no
+Please contact me with any questions via email at fumixer5693@gmail.com or Github [fumixer](https://github.com/fumixer)no
 
