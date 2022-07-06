@@ -37,7 +37,8 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
 
 ## Github URL 🦊
-![${data.github}]:((https:/github.cpm/${data.github})/)
+Github [${data.github}](https://github.com/${data.github})
+// ![${data.github}]:((https:/github.cpm/${data.github})/)
 
 ## Description 🖊️ 
 ${data.description}
